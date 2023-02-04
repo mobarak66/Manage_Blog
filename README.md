@@ -11,13 +11,11 @@ composer install
 
 ### Migrations
 
-To create all the nessesary tables and columns, run the following
+To create all the necessary tables and columns, run the following
 ```
 php artisan migrate
 ```
 
 ### Running Then App
-Upload the files to your document root, Valet folder or run 
-```
 php artisan serve
-```
+
