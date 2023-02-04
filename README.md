@@ -17,7 +17,5 @@ php artisan migrate
 ```
 
 ### Running Then App
-Upload the files to your document root, Valet folder or run 
-```
 php artisan serve
-```
+
